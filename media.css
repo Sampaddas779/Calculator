@@ -1,0 +1,66 @@
+@media screen and (max-width:700px) {
+    .container {
+        width: 575px;
+        position: absolute;
+        top: 115px;
+        left: 70px;
+    }
+}
+@media screen and (max-width:640px) {
+    .container {
+        width: 575px;
+        position: absolute;
+        top: 115px;
+        left: 32px;
+    }
+}
+@media screen and (max-width:640px) {
+    .container {
+        width: 575px;
+        position: absolute;
+        top: 115px;
+        left: 32px;
+    }
+}
+@media screen and (max-width:360px) {
+    input[type="button"] {
+        width: 63px;
+        height: 38px;
+        margin-left: 12px;
+    }
+    .container{
+        width:460px;
+        position:absolute;
+        top:116;
+        left:-70px;
+    }
+    input[type="button"] {
+        width: 69px;
+        height: 38px;
+        margin-left: 8px;
+        margin-bottom: 20px;
+    }
+    input#screen {
+        margin-top: 17px;
+        padding: 28px;
+        padding-left: 32px;
+    }
+    @media screen and (max-width:450px) {
+        .container {
+            width: 472px;
+            position: absolute;
+            top: 115px;
+            left: -4px;
+        }
+        input#screen {
+            margin-top: 17px;
+            padding: 28px;
+            padding-left: 28px;
+            padding-left: 136px;
+        }
+        input[type="button"] {
+            width: 69px;
+            height: 38px;
+            margin-left: 18px;
+        }
+   }   }
